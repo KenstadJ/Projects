@@ -1,2 +1,2 @@
 # Projects
-Past projects from school
+Past projects from school and side projects I created
